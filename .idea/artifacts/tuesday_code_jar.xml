@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="tuesday-code:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tuesday_code_jar</output-path>
+    <root id="archive" name="tuesday-code.jar">
+      <element id="module-output" name="tuesday-code" />
+    </root>
+  </artifact>
+</component>
